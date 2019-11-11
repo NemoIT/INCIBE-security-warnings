@@ -50,3 +50,12 @@ Un primer análisis descriptivo nos ayudará a entender mejor este fenómeno: ¿
 Pero sin duda, la aplicación de técnicas de minería de textos nos permitirá obtener el máximo valor de este dataset. Mediante la extracción de palabras clave podremos determinar qué sistemas o recursos se ven afectados, qué características tienen los problemas y sus correspondientes soluciones. La 
 
 ## Licencia
+
+This dataset is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by-nc-sa].
+
+[![CC BY 4.0][cc-by-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
