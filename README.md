@@ -47,7 +47,7 @@ La recopilación de los avisos de seguridad en este dataset abre la puerta a la 
 
 Un primer análisis descriptivo nos ayudará a entender mejor este fenómeno: ¿cuáles son las amenazas más frecuentes? ¿qué evolución están teniendo? ¿podemos encontrar patrones en la aparición de las amenazas? 
 
-Pero sin duda, la aplicación de técnicas de minería de textos nos permitirá obtener el máximo valor de este dataset. Mediante la extracción de palabras clave podremos determinar qué sistemas o recursos se ven afectados, qué características tienen los problemas y sus correspondientes soluciones. La 
+Pero sin duda, la aplicación de técnicas de minería de textos nos permitirá obtener el máximo valor de este dataset. Mediante la extracción de palabras clave podremos determinar qué sistemas o recursos se ven afectados, qué características tienen los problemas y sus correspondientes soluciones.
 
 ## Licencia
 
