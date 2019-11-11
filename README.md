@@ -24,13 +24,6 @@ El dataset generado incluye todos los avisos de seguridad emitidos por INCIBE de
 
 El dataset generado se proporciona en formato JSON. Su estructura es la siguiente:
 
-- **title**: 	Título del aviso
-- **date**: 	Fecha de publicación
-- **severity**: Gravedad (1-Mínima, 2-Baja, 3-Media, 4-Alta, 5-Crítica)
-- **labels**: Etiquetas para categorizar ("Phising", "Fraude", "Vulnerabilidad", etc.)
-- **description**: Descripción del problema que genera el aviso
-- **solution**: Solución para prevenir, evitar o corregir la amenaza
-
 |Nombre |Tipo                          |Uso                         |
 |----------------|-------------------------------|-----------------------------|
 |**title**|string|Título del aviso
