@@ -52,3 +52,7 @@ License][cc-by-nc-sa].
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Más información
+
+Se puede encontrar información adicional, incluyendo una descripción de los archivos del proyecto, en la [Wiki](https://github.com/NemoIT/INCIBE-security-warnings/wiki) de este proyecto.
